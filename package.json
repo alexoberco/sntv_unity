@@ -1,0 +1,14 @@
+{
+  "name": "com.alexoberco.sntv",
+  "displayName": "SNTV Receiver",
+  "version": "1.0.0",
+  "unity": "6000.0",
+  "description": "Receives SNTV video (H.264/HEVC over TCP, with per-frame camera poses) on Android / Meta Quest and decodes it in hardware straight into a RenderTexture, with no CPU copies. Pairs with the sntv_gazebo plugin.",
+  "keywords": ["video", "streaming", "vr", "quest", "robotics", "teleoperation", "gazebo", "hevc"],
+  "license": "Apache-2.0",
+  "author": {
+    "name": "Alejandro Bermúdez Fajardo",
+    "url": "https://github.com/alexoberco"
+  },
+  "documentationUrl": "https://github.com/alexoberco/sntv_unity"
+}
